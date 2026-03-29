@@ -10,9 +10,10 @@ Practical implementations focusing on real-world applications and Data Science l
 - **Basics:** I/O operations and Conditional logic.
 - **Data Structures:** Fibonacci sequences and Set operations.
 - **OOP:** Method overriding, Polymorphism, and Bank Account management.
-- **Data Science Stack:** - **NumPy:** Array slicing, indexing, and reshaping.
-  - **Pandas:** Dataset loading, filtering, and statistical analysis.
-  - **Matplotlib:** Data visualization (Line plots for Stock Prices).
+- **Data Science Stack:**
+  - **NumPy:** Array slicing, indexing, and reshaping.
+  - **Pandas:** Dataset loading, filtering, and statistical analysis.
+  - **Matplotlib:** Data visualization (Line plots for Stock Prices).
 
 ### 🧩 Section 2: 100 Days of Logic
 A daily commitment to solving core programming challenges to build strong algorithmic thinking.
@@ -20,6 +21,13 @@ A daily commitment to solving core programming challenges to build strong algori
 - **Level 2:** String Manipulation and File I/O operations.
 - **Level 3:** Advanced OOP (Inheritance, Private variables, Decorators).
 - **Level 4:** Exception Handling and Data conversion (JSON/CSV).
+
+### 💡 Section 3: Innovation & Mini-Projects
+Standalone projects where I apply Logic, OOP, and Data Science to solve interesting problems.
+- **Automation:** Web Scrapers or File Organizers.
+- **Games:** Logic-based CLI games (Rock-Paper-Scissors, Hangman).
+- **Data Stories:** Small-scale EDA on niche datasets (e.g., Personal Spotify Data or Weather trends).
+- **AI/ML:** Basic Predictors and Simple Neural Networks.
 
 ---
 
