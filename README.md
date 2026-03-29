@@ -26,8 +26,8 @@ A daily commitment to solving core programming challenges to build strong algori
 Standalone projects where I apply Logic, OOP, and Data Science to solve interesting problems.
 - **Automation:** Web Scrapers or File Organizers.
 - **Games:** Logic-based CLI games (Rock-Paper-Scissors, Hangman).
-- **Data Stories:** Small-scale EDA on niche datasets (e.g., Personal Spotify Data or Weather trends).
-- **AI/ML:** Basic Predictors and Simple Neural Networks.
+- **MathsEqutions:** We will solve the formulas in coding language taking creative laws and theorems.
+- **Data Visualization | Handling:** Basic Handling and Simple Visualization with [Pandas , Matplotlib , Seaborn] Libraries.
 
 ---
 
